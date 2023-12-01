@@ -4,7 +4,7 @@
 
 [Mi primer repositorio] (https://github.com/andres-corrales-valverde/pruebaPy) Espero les guste
 
-[![Linkedin Badge]www.linkedin.com/in/andres-corrales-valverde]
+[![Linkedin Badge] www.linkedin.com/in/andres-corrales-valverde]
 <!--
 **andres-corrales-valverde/andres-corrales-valverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
